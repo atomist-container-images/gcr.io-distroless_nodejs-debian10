@@ -1,0 +1,2 @@
+# Tags: 14-debug
+FROM gcr.io/distroless/nodejs-debian10:14-debug

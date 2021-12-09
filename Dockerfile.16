@@ -1,0 +1,3 @@
+# Tags: 16, latest
+FROM gcr.io/distroless/nodejs-debian10:16
+FROM gcr.io/distroless/nodejs-debian10:latest
