@@ -1,2 +1,2 @@
-# Tags: 10
+# Tags:  10
 FROM gcr.io/distroless/nodejs-debian10:10

@@ -1,2 +1,2 @@
-# Tags: 14
+# Tags:  14
 FROM gcr.io/distroless/nodejs-debian10:14

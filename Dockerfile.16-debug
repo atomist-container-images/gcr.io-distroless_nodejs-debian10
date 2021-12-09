@@ -1,3 +1,3 @@
-# Tags: 16-debug, debug
+# Tags:  16-debug, debug
 FROM gcr.io/distroless/nodejs-debian10:16-debug
 FROM gcr.io/distroless/nodejs-debian10:debug
