@@ -1,2 +1,0 @@
-# Tags:  12-debug
-FROM gcr.io/distroless/nodejs-debian10:12-debug
